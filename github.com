@@ -3,4 +3,5 @@
 /ewann/concourse-aws
 /bitcoinbook/bitcoinbook
 /ewann/bitcoinbook
+/ethereum
 ########## DEEPLINKS STOPS ##########
