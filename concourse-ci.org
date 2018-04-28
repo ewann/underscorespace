@@ -1,1 +1,3 @@
-
+########## DEEPLINKS START ##########
+/getting-started.html
+########## DEEPLINKS STOPS ##########
