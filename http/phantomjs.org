@@ -1,0 +1,3 @@
+########## DEEPLINKS START ##########
+/screen-capture.html
+########## DEEPLINKS STOPS ##########
