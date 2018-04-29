@@ -14,4 +14,5 @@ source ./prereqs/compose-codepipeline.sh -a <action>
 eg:
 
 source ./prereqs/compose-codepipeline.sh -a plan
+
 source ./prereqs/compose-codepipeline.sh -a apply
