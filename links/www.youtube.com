@@ -6,4 +6,5 @@
 /playlist?list=PLFB088DB91845CA34 ## University of Waterloo CS798: Mathematical Foundations of Computer Networking
 /playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N ## University of Waterloo CS 436: Distributed Computer Systems
 /watch?v=UVzCZqNngaU ## Valerie King Byzantine Agreement Google Tech Talk 2007
+/watch?v=vYp4LYbnnW8 ## Designing for Understandability: The Raft Consensus Algorithm
 ########## DEEPLINKS STOPS ##########
