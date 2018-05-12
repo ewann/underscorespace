@@ -1,3 +1,5 @@
 ########## DEEPLINKS START ##########
 /wiki/Dancing_Plague_of_1518
+/wiki/RIPEMD ## RIPEMD (RACE Integrity Primitives Evaluation Message Digest)
+/wiki/Halting_problem ## Halting problem
 ########## DEEPLINKS STOPS ##########

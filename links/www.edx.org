@@ -1,0 +1,23 @@
+########## DEEPLINKS START ##########
+/course/javascript-introduction-w3cx-js-0x-0
+/course/writing-professional-code
+/course/devops-for-databases
+/introduction-to-python-creating-scalable-robust-interactive-code
+/course/introduction-to-jquery
+/course/advanced-css-concepts
+/course/managing-identity
+/course/introduction-to-onap
+/course/aws-developer-building-on-aws
+/course/introduction-to-kubernetes
+/course/introduction-to-nodejs
+/course/probability-basic-concepts-discrete-random-variables
+/course/probability-distribution-models-continuous-random-variables
+/course/principles-of-designing-for-humans
+/course/building-cybersecurity-toolkit-uwashingtonx-cyb003x
+/course/blockchain-business-introduction-linuxfoundationx-lfs171x ## Blockchain for Business - An Introduction to Hyperledger Technologies
+/course/graph-algorithms-uc-san-diegox-algs202x
+/course/the-building-blocks-of-a-quantum-computer
+/course/iot-networks-protocols-curtinx-iot3x
+/course/foundations-data-science-prediction-uc-berkeleyx-data8-3x
+########## DEEPLINKS STOPS ##########
+

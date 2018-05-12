@@ -1,0 +1,4 @@
+########## DEEPLINKS START ##########
+/as
+/as/serverlist.php?showintro=0;hostformat=hosts ## ad / advertisment server list
+########## DEEPLINKS STOPS ##########
